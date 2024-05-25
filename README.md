@@ -1,75 +1,22 @@
-# Curs de Programare în Python - Realizat de [Numele Tău]
+# Note de Auto-Învățare Python
 
-Bine ai venit la prezentarea cursului meu de Python! În cele ce urmează, vei descoperi tot ce am învățat și realizat pe parcursul acestui curs captivant. Fiecare modul acoperă concepte esențiale și include exerciții practice care m-au ajutat să devin un programator mai bun. Hai să vedem împreună această călătorie!
-
----
-
-#### 🌟 Modul 1: Setup, Variabile, Tipuri de Date
-**Ce am învățat:**
-- 🚀 Instalarea Python și configurarea mediului de dezvoltare
-- 🔄 Cum să declar variabile și să folosesc constante
-- 🔢 Tipuri de date esențiale: întregi, zecimale, șiruri de caractere, booleeni
-- 🛠️ Conversia și tipizarea datelor
+Bine ai venit în repository-ul meu de note de auto-învățare în Python! Aici vei găsi o colecție a notelor mele personale din sesiunile mele de învățare Python. Aceste note acoperă diferite subiecte și concepte legate de programare în Python, inclusiv lucrul cu aplicații web, baze de date, și programarea orientată pe obiecte.
 
 ---
 
-#### 🔥 Modul 2: Operatori, Condiționale
-**Ce am învățat:**
-- ➗ Operatori aritmetici, de comparație, logici și pe biți
-- 🧩 Utilizarea instrucțiunilor condiționale: if, elif, else
-- 🔀 Cum să scriu condiționale imbricate și să folosesc evaluarea scurtcircuit
+## Despre Aceste Note
 
----
+Aceste note sunt rezultatul eforturilor mele de auto-învățare în Python. Ele includ rezumate, explicații, fragmente de cod și exemple pe care le-am compilat în timp ce studiam Python.
 
-#### 📊 Modul 3: Structuri de Date
-**Ce am învățat:**
-- 📚 Liste, tupluri și seturi
-- 🗃️ Dicționare și cum să le folosești eficient
-- ⚡ List comprehension pentru operațiuni rapide
-- 🧰 Funcții built-in pentru manipularea datelor
+## Subiecte Abordate
 
----
-
-#### 🔁 Modul 4: Cicluri Repetitive
-**Ce am învățat:**
-- 🔄 Cum să folosesc bucla for și bucla while
-- 🔀 Scrierea buclelor imbricate pentru situații complexe
-- 🚦 Utilizarea instrucțiunilor de control ale buclelor: break, continue, pass
-
----
-
-#### 🔧 Modul 5: Funcții
-**Ce am învățat:**
-- 🛠️ Definirea și apelarea funcțiilor
-- 📌 Utilizarea argumentelor: implicite, prin cuvinte cheie, variabile-length
-- 🎯 Returnarea valorilor și funcțiile lambda
-- 🌐 Domeniul de valabilitate și durata de viață a variabilelor
-
----
-
-#### 🏛️ Modul 6: Programare Orientată pe Obiecte (OOP)
-**Ce am învățat:**
-- 🏗️ Introducere în OOP, clase și obiecte
-- ⚙️ Atribute și metode
-- 🔧 Constructori și destructori
-- 🧬 Moștenirea între clase
-
----
-
-#### 📚 Modul 7: Pilonii OOP
-**Ce am învățat:**
-- 🔒 Încapsularea și abstractizarea
-- 🧩 Analiză a moștenirii
-- 🌀 Polimorfism și aplicarea acestuia
-
----
-
-#### 🛠️ Modul 8: Sesiune Practică OOP
-**Ce am realizat:**
-- 🏆 Proiecte OOP aplicate în lumea reală
-- 🏗️ Construirea unui proiect OOP cuprinzător care înglobează toate conceptele învățate
-
----
+- **Concepte Generale de Programare:** Introducere în conceptele generale de programare și fundamentele algoritmilor.
+- **Dezvoltarea Software Colaborativă:** Utilizarea sistemului de control al versiunilor Git și a mediului de dezvoltare PyCharm.
+- **Python:** Sintaxa, structurile de date și funcțiile fundamentale în Python.
+- **Fundamentele Programării:** Instrucțiunile condiționale, buclele și funcțiile în Python.
+- **Lucrul cu Aplicații Web (Django):** Dezvoltarea aplicațiilor web folosind framework-ul Django.
+- **Lucrul cu Baze de Date (MySQL):** Introducere în lucrul cu baze de date relaționale folosind MySQL.
+- **Programare Orientată pe Obiecte:** Concepte și practici fundamentale în programarea orientată pe obiecte.
 
 
 
